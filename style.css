@@ -1,0 +1,26 @@
+.maindiv{
+
+
+                display: flex;
+                justify-content:center;
+                align-items:center;
+                margin-top:12%
+}
+
+.h1{
+
+font-size: 64px;
+color: #fff;
+                
+}
+
+body{
+
+                background-color:#1B4F72 
+}
+
+
+#temp{
+
+                font-size:80px;
+}
